@@ -73,7 +73,7 @@ PS > .\program.exe 99
 
 No output! It seems that the program only works for numbers under 11! Going back to the code we can find the issue right after the last if statement, we need more if statements!
 
-Now, this is a time-memory tradeoff, but my time on this earth is limited so I decided to meta-program the if statements using a programmer program in a different programming language. To compensate for this cheating I decided to use the slowest language on the planet, Python (thanks to the visionary genius of Ross van der Gussom). 
+Now, this is a time-memory tradeoff, but my time on this earth is limited so I decided to meta-program the if statements using a programmer program in a different programming language. To compensate for this cheating I decided to use the slowest language on the planet, Python (thanks to the visionary genius of Guido van Rossum). 
 
 {% highlight python %}
 print("/* Copyright 2023. All unauthorized distribution of this source code")
